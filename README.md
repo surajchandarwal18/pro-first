@@ -1,2 +1,2 @@
 # pro-first
-this is demo for git and github class
+this is the demo for Git and GitHub class.
